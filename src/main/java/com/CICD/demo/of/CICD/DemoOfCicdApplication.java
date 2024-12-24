@@ -8,6 +8,8 @@ public class DemoOfCicdApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoOfCicdApplication.class, args);
+
+		System.out.println("This is from CICD demo app");
 	}
 
 }
